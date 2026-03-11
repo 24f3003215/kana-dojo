@@ -159,7 +159,7 @@
     "explanation": "Negative polite form already complete. (Pattern set 1)",
     "id": 20,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は日本語を話しますです。",
@@ -206,7 +206,7 @@
     "correct": "図書館で本を借りました。",
     "explanation": "で marks location of action. (Pattern set 2)",
     "id": 26,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
